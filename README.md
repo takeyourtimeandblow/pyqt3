@@ -1,4 +1,4 @@
-<img width="1246" height="736" alt="image" src="https://github.com/user-attachments/assets/43d0e3de-b7e4-4639-a32e-94be35b3c0b3" /># Лабораторная работа № 1
+# Лабораторная работа № 1
 
 ## Задание № 1
 На форме должна располагаться кнопка «Загрузить». При нажатии на нее открывается
@@ -89,6 +89,7 @@ PyQT. На главной форме должны отображаться кн�
 Остальное — теоремы.
 
 Файл с решением: system_l.py
+<img width="1246" height="736" alt="image" src="https://github.com/user-attachments/assets/43d0e3de-b7e4-4639-a32e-94be35b3c0b3" />
 <img width="1246" height="736" alt="image" src="https://github.com/user-attachments/assets/9410fad5-3144-4c4e-bd8e-ace4b0e39c58" />
 <img width="657" height="481" alt="image" src="https://github.com/user-attachments/assets/1f843cf7-86a0-4e6e-be04-fbe8626bcef3" />
 <img width="1246" height="736" alt="image" src="https://github.com/user-attachments/assets/2102b7b8-a532-465d-859e-cde9e1a41488" />
