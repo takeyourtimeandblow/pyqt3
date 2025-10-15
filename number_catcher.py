@@ -42,7 +42,6 @@ class NumberCatcher(QMainWindow):
     def save(self):
         try:
             path = f'/home/{subprocess.run("whoami", capture_output=True, text=True, check=True).stdout.strip()}/Documents'
-            raise subprocess.CalledProcessError("abcd")
         except subprocess.CalledProcessError as e:
             print("Failed to find username")
             
